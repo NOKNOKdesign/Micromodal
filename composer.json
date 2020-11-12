@@ -1,0 +1,15 @@
+{
+    "name": "noknok-studios/micromodal",
+    "description": "Tiny, dependency-free javascript library for creating accessible modal dialogs",
+    "keywords": [],
+    "license": ["MIT"],
+    "type": "component",
+    "homepage": "http://jquery.malsup.com/block/",
+    "authors": [
+        {
+            "name": "ghosh",
+            "homepage": "https://github.com/ghosh"
+        }
+    ],
+    "require": {}
+}
